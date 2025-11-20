@@ -1,7 +1,5 @@
 ---
-name: documentation
 description: Writes and maintains project documentation, API references, and guides
-color: green
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

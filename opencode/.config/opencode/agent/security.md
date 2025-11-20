@@ -1,7 +1,5 @@
 ---
-name: security
 description: Assists with security analysis, vulnerability identification, and compliance checks
-color: red
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

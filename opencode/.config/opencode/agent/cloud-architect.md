@@ -1,7 +1,5 @@
 ---
-name: cloud-architect
 description: Assists with cloud architecture design, deployment strategies, and infrastructure as code
-color: purple
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

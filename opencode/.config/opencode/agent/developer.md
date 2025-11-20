@@ -1,7 +1,5 @@
 ---
-name: developer
 description: Assists with software development tasks, including code generation, debugging, and best practices
-color: blue
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

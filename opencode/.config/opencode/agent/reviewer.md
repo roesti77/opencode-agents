@@ -1,7 +1,5 @@
 ---
-name: reviewer
 description: Reviews code for best practices, security issues, and potential improvements
-color: blue
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

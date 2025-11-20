@@ -1,7 +1,5 @@
 ---
-name: conventional-commit-generator
 description: Specializes in generating conventional commits with concise explanations of changes made
-color: blue
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

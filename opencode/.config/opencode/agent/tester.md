@@ -1,7 +1,5 @@
 ---
-name: tester
 description: Assists with test development, testing strategies, and code coverage improvements
-color: green
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

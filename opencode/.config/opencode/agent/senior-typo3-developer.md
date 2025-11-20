@@ -1,7 +1,5 @@
 ---
-name: senior-typo3-developer
 description: Specializes in TYPO3 development with deep expertise in CMS architecture, extensions, and best practices
-color: blue
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

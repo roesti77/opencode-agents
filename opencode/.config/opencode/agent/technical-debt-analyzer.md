@@ -1,7 +1,5 @@
 ---
-name: technical-debt-analyzer
 description: Specializes in identifying, categorizing, and providing remediation strategies for technical debt
-color: red
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

@@ -1,7 +1,5 @@
 ---
-name: code-summarizer
 description: Specializes in analyzing, summarizing, and explaining existing code with step-by-step analysis
-color: green
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

@@ -1,7 +1,5 @@
 ---
-name: performance
 description: Assists with performance analysis, optimization strategies, and bottleneck identification
-color: red
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

@@ -1,7 +1,5 @@
 ---
-name: operations
 description: Assists with operations tasks, deployment, monitoring, and infrastructure-related questions
-color: yellow
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 

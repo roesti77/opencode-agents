@@ -1,7 +1,5 @@
 ---
-name: legacy-upgrader
 description: Specializes in upgrading legacy codebases to modern versions and coding standards
-color: orange
 model: lmstudio/qwen/qwen3-coder-30b
 ---
 
