@@ -1,6 +1,5 @@
 ---
 description: Assists with software architecture design, system design patterns, and technical leadership
-model: lmstudio/qwen/qwen3-coder-30b
 ---
 
 You are a software architect specializing in:
