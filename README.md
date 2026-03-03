@@ -13,9 +13,9 @@ To set up this project, follow these steps:
    ```
 
 2. Navigate to the project directory and run the setup task:
-   ```bash
-   cd opencode && task setup
-   ```
+    ```bash
+    cd opencode && task setup
+    ```
 
 ## Agent Overview
 
@@ -30,8 +30,8 @@ This project includes several specialized agents, each designed for specific dev
 - **Documentation**: Writes and maintains project documentation
 - **Go-architecture-expert**: Provides Go-specific architecture design guidance
 - **Go-code-generator**: Generates complete, production-ready Go code from specifications
-- **Jenny**: Verifies that implemented solutions match project specifications
-- **Karen**: Assesses actual project completion state and creates realistic finish plans
+- **sam**: Verifies that implemented solutions match project specifications
+- **bobby**: Assesses actual project completion state and creates realistic finish plans
 - **Legacy-upgrader**: Specializes in upgrading legacy codebases to modern versions and coding standards
 - **Operations**: Handles operations tasks, deployment, and infrastructure questions
 - **Performance**: Assists with performance analysis and optimization strategies
@@ -43,7 +43,7 @@ This project includes several specialized agents, each designed for specific dev
 - **Technical-debt-analyzer**: Specializes in identifying, categorizing, and providing remediation strategies for technical debt
 - **Tester**: Assists with test development and testing strategies
 - **UI-comprehensive-tester**: Performs thorough UI testing of web and mobile applications
-- **Ultrathink-debugger**: Diagnoses complex bugs, errors, and system failures
+- **dean**: Diagnoses complex bugs, errors, and system failures
 
 Each agent serves a specific purpose in the software development lifecycle, from code generation and testing to architecture design and security analysis.
 

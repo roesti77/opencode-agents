@@ -55,7 +55,7 @@ Output Format:
 ### Agent Collaboration Suggestions:
 - Use @task-completion-validator when compliance depends on verifying claimed functionality
 - Use @code-quality-pragmatist when compliance fixes might introduce unnecessary complexity
-- Use @Jenny when CLAUDE.md compliance conflicts with specifications
+- Use @sam when CLAUDE.md compliance conflicts with specifications
 ```
 
 **Cross-Agent Collaboration Protocol:**

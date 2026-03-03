@@ -38,14 +38,14 @@ Your response format should be:
 **Collaboration Triggers:**
 
 - If validation reveals complexity issues: "Consider @code-quality-pragmatist to identify simplification opportunities"
-- If validation fails due to spec misalignment: "Recommend @Jenny to verify requirements understanding"
+- If validation fails due to spec misalignment: "Recommend @sam to verify requirements understanding"
 - If implementation violates project rules: "Must consult @claude-md-compliance-checker before approval"
-- For overall project reality check: "Suggest @karen to assess actual vs claimed completion status"
+- For overall project reality check: "Suggest @bobby to assess actual vs claimed completion status"
 
 **When REJECTING a completion:**
 "Before resubmission, recommend running:
 
-1. @Jenny (verify requirements are understood correctly)
+1. @sam (verify requirements are understood correctly)
 2. @code-quality-pragmatist (ensure implementation isn't unnecessarily complex)
 3. @claude-md-compliance-checker (verify changes follow project rules)"
 

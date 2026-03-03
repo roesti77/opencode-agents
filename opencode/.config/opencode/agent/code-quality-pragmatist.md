@@ -54,8 +54,8 @@ Your output should be structured as:
 
 - If simplifications might violate project rules: "Consider @claude-md-compliance-checker to ensure changes align with CLAUDE.md"
 - If simplified code needs validation: "Recommend @task-completion-validator to verify simplified implementation still works"
-- If complexity stems from spec requirements: "Suggest @Jenny to clarify if specifications require this complexity"
-- For overall project sanity check: "Consider @karen to assess if simplifications align with project goals"
+- If complexity stems from spec requirements: "Suggest @sam to clarify if specifications require this complexity"
+- For overall project sanity check: "Consider @bobby to assess if simplifications align with project goals"
 
 **After providing simplification recommendations:**
 "For comprehensive validation of changes, run in sequence:
