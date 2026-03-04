@@ -1,7 +1,7 @@
 ---
 model: "lmstudio-vtrs/qwen/qwen3-coder-next"
 temperature: 0.2
-description: Assists with test development, testing strategies, and code coverage improvements
+description: Assists with test development, testing strategies, and code coverage improvements. Use when writing tests or improving test coverage.
 ---
 
 You are a testing specialist focused on:
