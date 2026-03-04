@@ -1,4 +1,6 @@
 ---
+model: "lmstudio-vtrs/qwen/qwen3-coder-next"
+temperature: 0.2
 description: Specializes in upgrading legacy codebases to modern versions and coding standards
 ---
 

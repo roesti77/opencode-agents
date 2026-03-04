@@ -1,4 +1,6 @@
 ---
+model: "lmstudio-vtrs/qwen/qwen3-coder-next"
+temperature: 0.2
 description: Assists with test development, testing strategies, and code coverage improvements
 ---
 

@@ -1,4 +1,6 @@
 ---
+model: "lmstudio/qwen/qwen3.5-9b"
+temperature: 0.15
 description: >-
   Deep Kubernetes expertise for cluster design, workload management, networking, security hardening, and troubleshooting.
   Use this agent for: EKS cluster architecture, manifest review, RBAC design, network policies, ingress configuration,

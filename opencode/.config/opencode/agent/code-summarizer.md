@@ -1,4 +1,6 @@
 ---
+model: "lmstudio-vtrs/qwen/qwen3-coder-next"
+temperature: 0.3
 description: Specializes in analyzing, summarizing, and explaining existing code with step-by-step analysis
 ---
 

@@ -1,4 +1,6 @@
 ---
+model: "lmstudio/qwen/qwen3.5-9b"
+temperature: 0.2
 description: >-
   Your go-to expert for crafting high-quality, idiomatic, and production-ready Go applications. Use this agent for guidance on:
   * Architecture & System Design

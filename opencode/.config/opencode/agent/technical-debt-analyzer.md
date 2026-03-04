@@ -1,4 +1,6 @@
 ---
+model: "lmstudio/qwen/qwen3.5-9b"
+temperature: 0.15
 description: Specializes in identifying, categorizing, and providing remediation strategies for technical debt
 ---
 

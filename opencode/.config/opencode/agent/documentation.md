@@ -1,4 +1,6 @@
 ---
+model: "lmstudio-vtrs/qwen/qwen3-coder-next"
+temperature: 0.3
 description: Writes and maintains project documentation, API references, and guides
 ---
 

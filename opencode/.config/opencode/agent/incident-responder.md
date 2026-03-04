@@ -1,4 +1,6 @@
 ---
+model: "lmstudio/qwen/qwen3.5-9b"
+temperature: 0.15
 description: >-
   Structured incident response, postmortem facilitation, and runbook creation following SRE best practices.
   Use during active incidents for triage and diagnosis support, or after incidents for blameless RCA documentation,

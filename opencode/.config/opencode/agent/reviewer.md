@@ -1,4 +1,6 @@
 ---
+model: "lmstudio-vtrs/qwen/qwen3-coder-next"
+temperature: 0.2
 description: Reviews code for best practices, security issues, and potential improvements
 ---
 

@@ -1,4 +1,6 @@
 ---
+model: "lmstudio/qwen/qwen3.5-9b"
+temperature: 0.15
 description: >-
   Infrastructure-as-Code expert specializing in Terraform and OpenTofu for AWS. Use for module design, state management,
   workspace strategies, CI/CD integration, refactoring existing configs, provider configuration, drift detection,

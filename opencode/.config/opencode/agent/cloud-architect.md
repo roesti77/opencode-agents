@@ -1,4 +1,6 @@
 ---
+model: "lmstudio/qwen/qwen3.5-9b"
+temperature: 0.2
 description: Assists with cloud architecture design, deployment strategies, and infrastructure as code
 ---
 

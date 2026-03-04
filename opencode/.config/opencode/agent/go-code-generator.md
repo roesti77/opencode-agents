@@ -1,4 +1,6 @@
 ---
+model: "lmstudio-vtrs/qwen/qwen3-coder-next"
+temperature: 0.1
 description: >-
   A specialist agent for writing complete, production-ready Go code based on a clear architectural plan or specification. Use this agent to translate design patterns, architectural blueprints, and specific logic into robust, well-documented, and testable Go files.
 

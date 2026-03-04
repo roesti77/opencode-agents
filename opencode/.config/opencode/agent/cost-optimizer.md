@@ -1,4 +1,6 @@
 ---
+model: "lmstudio/qwen/qwen3.5-9b"
+temperature: 0.15
 description: >-
   AWS cloud cost analysis, optimization recommendations, and FinOps practices. Use for reviewing AWS bills,
   identifying waste (idle resources, oversized instances, unused storage), right-sizing recommendations,

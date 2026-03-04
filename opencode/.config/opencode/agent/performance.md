@@ -1,4 +1,6 @@
 ---
+model: "lmstudio/qwen/qwen3.5-9b"
+temperature: 0.1
 description: Assists with performance analysis, optimization strategies, and bottleneck identification
 ---
 
